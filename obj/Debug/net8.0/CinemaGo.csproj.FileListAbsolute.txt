@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\CinemaGo_Complete\CinemaGo\bin\Debug\net8.0\CinemaGo.exe
+C:\Users\user\Desktop\CinemaGo_Complete\CinemaGo\bin\Debug\net8.0\CinemaGo.deps.json
+C:\Users\user\Desktop\CinemaGo_Complete\CinemaGo\bin\Debug\net8.0\CinemaGo.runtimeconfig.json
+C:\Users\user\Desktop\CinemaGo_Complete\CinemaGo\bin\Debug\net8.0\CinemaGo.dll
+C:\Users\user\Desktop\CinemaGo_Complete\CinemaGo\bin\Debug\net8.0\CinemaGo.pdb
+C:\Users\user\Desktop\CinemaGo_Complete\CinemaGo\obj\Debug\net8.0\CinemaGo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CinemaGo_Complete\CinemaGo\obj\Debug\net8.0\CinemaGo.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CinemaGo_Complete\CinemaGo\obj\Debug\net8.0\CinemaGo.AssemblyInfo.cs
+C:\Users\user\Desktop\CinemaGo_Complete\CinemaGo\obj\Debug\net8.0\CinemaGo.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CinemaGo_Complete\CinemaGo\obj\Debug\net8.0\CinemaGo.dll
+C:\Users\user\Desktop\CinemaGo_Complete\CinemaGo\obj\Debug\net8.0\refint\CinemaGo.dll
+C:\Users\user\Desktop\CinemaGo_Complete\CinemaGo\obj\Debug\net8.0\CinemaGo.pdb
+C:\Users\user\Desktop\CinemaGo_Complete\CinemaGo\obj\Debug\net8.0\CinemaGo.genruntimeconfig.cache
+C:\Users\user\Desktop\CinemaGo_Complete\CinemaGo\obj\Debug\net8.0\ref\CinemaGo.dll
+C:\Users\user\Desktop\CinemaGo_Complete\CinemaGo\obj\Debug\net8.0\CinemaGo.csproj.Up2Date
